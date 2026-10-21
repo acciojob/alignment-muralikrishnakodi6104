@@ -17,9 +17,8 @@
 .blue{
 	background:blue;
 }
-
-.table{
-	border:"1px solid black";
-	margin:"1px";
-	padding:"1px";
+#table-3 {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
 }
