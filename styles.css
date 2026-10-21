@@ -1,19 +1,36 @@
-/*  your css code here. If applicable */
+
 .center {
-	text-align:center;
+    text-align: center;
 }
+
 .right {
-	text-align:right;
+    text-align: right;
 }
 
-h1{
-	text:bold;
-	text-align: center;
+h1 {
+    font-weight: bold;
+    text-align: center;
 }
 
-.green{
-	background:green;
+table {
+    border: 1px solid black;
+    border-spacing: 2px;
 }
-.blue{
-	background:blue;
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.middle {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.green {
+    background: green;
+}
+
+.blue {
+    background: blue;
 }
