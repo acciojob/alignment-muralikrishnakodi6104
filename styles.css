@@ -9,6 +9,7 @@
 .header1{
 	align-content: center;
 	text:bold;
+	text-align: center;
 }
 
 .green{
@@ -17,9 +18,7 @@
 .blue{
 	background:blue;
 }
-.tab{
-	border:1px solid black;
-}
+
 #t-image{
 	padding: 1px;
 }
