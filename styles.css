@@ -7,6 +7,19 @@
 }
 
 .header1{
-	text-align: center;
+	align-content: center;
 	text:bold;
+}
+
+.green{
+	background:green;
+}
+.blue{
+	background:blue;
+}
+.tab{
+	border:1px solid black;
+}
+#t-image{
+	padding: 1px;
 }
