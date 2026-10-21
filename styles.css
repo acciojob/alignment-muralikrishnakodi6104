@@ -7,7 +7,6 @@
 }
 
 .header1{
-	align-content: center;
 	text:bold;
 	text-align: center;
 }
@@ -17,4 +16,10 @@
 }
 .blue{
 	background:blue;
+}
+
+.table{
+	border:"1px solid black";
+	margin:"1px";
+	padding:"1px";
 }
